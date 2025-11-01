@@ -10,3 +10,6 @@ print(type(course_fees))
 print(type(course_rating))
 print(type(is_starting_soon))
 print(type(total_income))
+
+print (course_fees + 50)
+#print(instructor_name + 50) 
